@@ -11,7 +11,7 @@
    5. To run the macro:
         Select the cells containing the checkboxes.
         Press `Alt` + `F8` to open the `Macro` dialog.
-        Choose `LinkCheckBox` and click `Run`.
+        Choose `LinkCheckBoxes` and click `Run`.
 
 # `License`
 This project is protected by [MIT License](LICENSE).
